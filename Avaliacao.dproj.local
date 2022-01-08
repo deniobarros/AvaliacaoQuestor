@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/07 10:51:44.000.868,=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/07 12:15:52.000.552,=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/01/07 12:16:07.000.956,C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Carro.pas</Transaction>
+    <Transaction>2022/01/07 12:16:16.000.276,=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/01/07 12:16:30.000.774,C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Cliente.pas</Transaction>
+    <Transaction>2022/01/07 12:16:35.000.885,=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/01/07 12:16:42.000.023,C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Vendas.pas</Transaction>
+    <Transaction>2022/01/07 12:17:02.000.205,C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\UfrmPrincipal.pas</Transaction>
+    <Transaction>2022/01/07 12:17:02.000.205,C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2022/01/07 12:17:50.000.190,=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/07 12:22:58.000.219,C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Teste.pas</Transaction>
+    <Transaction>2022/01/07 12:23:43.000.242,C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Avaliacao.dproj</Transaction>
+    <Transaction>2022/01/07 12:24:04.000.727,C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Teste.pas=</Transaction>
+    <Transaction>2022/01/07 13:20:17.000.592,=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/07 13:53:23.000.166,C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\PersistenciaDb.pas</Transaction>
+    <Transaction>2022/01/07 14:39:07.000.791,=C:\Users\Dênio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Carro.pas"/>
+    <File Path="Cliente.pas"/>
+    <File Path="UfrmPrincipal.pas"/>
+    <File Path="UfrmPrincipal.dfm"/>
+    <File Path="Vendas.pas"/>
+    <File Path="PersistenciaDb.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
